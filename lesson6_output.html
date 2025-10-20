@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dimensions</title>
+    <link rel="stylesheet" href="CSS.css">
+</head>
+<body>
+    <h1>TLE OUTPUT 🖥️</h1>
+    <h2>Lesson 6 - Dimensions</h2>
+    <h3>What I Learned</h3>
+    <p><b>Setting Dimensions</b><br>
+<i>CSS can be used to manage dimensions such as visibility, width or height of HTML elements.</i><br><br>
+
+<b>Visibility Property</b><br>
+<i>Indicates if an element is visible or hidden.</i><br>
+<b>visibility: visible</b> – default value, the element is visible.<br>
+<b>visibility: hidden</b> – the element is hidden but still takes up space.<br>
+<b>visibility: collapse</b> – used for table rows, columns, and flex items. Acts like display:none.<br><br>
+
+<b>Dimension Properties</b><br>
+<b>width</b> – sets width of the element.<br>
+<b>height</b> – sets height of the element.<br>
+<b>line-height</b> – sets line spacing.<br>
+<b>max-height</b> – sets maximum height.<br>
+<b>min-height</b> – sets minimum height.<br>
+<b>max-width</b> – sets maximum width.<br>
+<b>min-width</b> – sets minimum width.<br><br>
+
+<b>HTML and CSS Example - Height & Visibility</b><br>
+<i>
+&lt;!DOCTYPE html&gt;<br>
+&lt;html&gt;<br>
+&lt;head&gt;<br>
+&lt;style&gt;<br>
+body {background-color:#DAF02D;}<br>
+#myDIV {height:300px; background-color:#33EBC0;}<br>
+span{background:lightblue; visibility:visible;}<br>
+&lt;/style&gt;<br>
+&lt;/head&gt;<br>
+&lt;body&gt;<br>
+&lt;h1 align="center"&gt;The visibility property&lt;/h1&gt;<br>
+&lt;div id="myDIV"&gt;<br>
+In this paragraph, the &lt;span&gt;blue span&lt;/span&gt; change the visibility value<br>
+&lt;/div&gt;<br>
+&lt;/body&gt;<br>
+&lt;/html&gt;
+</i><br><br>
+
+<b>HTML and CSS Example - Width & Visibility</b><br>
+<i>
+#myDIV {width:300px; background-color:#33EBC0;}<br>
+span{background:lightblue; visibility:hidden;}
+</i><br><br>
+
+<b>HTML and CSS Example - With Class</b><br>
+<i>
+.NoDimensions {background-color:pink; font-family:Times; font-size:30px;}<br>
+.HasDimensions {background-color:yellow; font-family:Arial; font-size:20px; width:50%;}<br>
+.Hidden {background-color:lightblue; font-family:Arial; font-size:12px; visibility:hidden;}
+</i><br><br>
+
+<b>Pseudo-Classes and Links</b><br>
+<i>Pseudo-classes are defined by a colon (:) and are not user-defined. They apply to specific HTML elements like links.</i><br>
+<b>Four Anchor Pseudo-classes:</b><br>
+<b>:link</b> – unvisited link<br>
+<b>:visited</b> – visited link<br>
+<b>:hover</b> – mouse hover<br>
+<b>:active</b> – when clicked<br><br>
+
+<b>LVHA Order:</b> Link, Visited, Hover, Active<br><br>
+
+<b>Pseudo-Class Example</b><br>
+<i>
+a {font-family:Arial; font-size:15px; font-weight:bold; color:red; line-height:22px;}<br>
+a:link {color:red;}<br>
+a:visited {color:black;}<br>
+a:hover {color:green;}<br>
+a:active {color:blue;}
+</i><br><br>
+
+<b>Practical Application:</b><br>
+<i>Dimensions help control the size and space of elements on a webpage. Pseudo-classes make pages interactive, especially links.</i><br></p>
+    <h3>My Browser Output</h3>
+    <ul>
+        <li><img src="images/dimesion.png" width="300"></li>
+        <li><img src="images/dimee.png" width="300"></li>
+    </ul>
+    <h3>Reflection</h3>
+    <p>This lecture has taught me how to control the visibility and size of certain HTML elements. 
+        I also learned how pseudo-classes can help make links change colors when you hover or click over them. This made me realize how small changes like that make a webpage visually appealing and responsive.
+    </p>
+</body>
+</html>

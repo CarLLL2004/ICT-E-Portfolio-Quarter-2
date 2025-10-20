@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@300;400;600&display=swap');
+
+body {
+    background:#007A33;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    background-color: #BA9653;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 48px;
+    letter-spacing: 2px;
+    padding: 20px;
+    margin-bottom: 0;
+    text-shadow: 2px 2px 5px #004B23;
+}
+
+img.heyo { width:500px;
+    height:500px;
+
+
+
+}
+
+
+
+
+.center {
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 40px;
+    margin-top: 30px;
+    letter-spacing: 1px;
+    text-shadow: 2px 2px 5px #004B23;
+}
+
+h3 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    color: #FFD700;
+    margin-top: 20px;
+}
+
+
+p {
+    width: 80%;
+    margin: auto;
+    text-align: justify;
+    line-height: 1.7;
+    font-size: 1em;
+    color: #F5F5F5;
+    background-color: rgba(0, 0, 0, 0.3);
+    padding: 12px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.4);
+}
+
+.favorites-list li {
+  display: list-item !important;
+  background: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  text-align: left !important;
+  color: #F5F5F5;   
+}
+
+
+
+.highlight-name {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 2em;
+    color: #FFD700;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 5px #004B23;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+
+.uhm {
+  background-color: rgba(0, 0, 0, 0.3);
+  padding: 12px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.4);
+  width: 80%;
+  margin: auto;
+  text-align: left;
+  font-size: 18px;
+  line-height: 25px
+}
+
+.d1 {
+  background: none;      
+  padding: 0;
+  box-shadow: none;
+  margin: 0;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 10px;
+}
+
+ul li {
+    display: inline-block;
+    margin: 5px;
+    background-color: #BA9653;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.4);
+}
+
+
+.pamilya {
+
+width: 500px;
+}
+
+
+.couragepic {
+
+width: 500px;
+}
+
+.center img { width: 300px;
+    height: 300px;
+
+
+}
+
+ul li img {
+    border: 3px solid #FFD700;
+    border-radius: 10px;
+    width: 500px;
+    height: 300px;
+}
+
+a {
+    color: #FFD700;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+html {
+    scroll-behavior: smooth;
+}

@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Types of CSS</title>
+    <link rel="stylesheet" href="CSS.css">
+</head>
+<body>
+    <h1>TLE OUTPUT 🖥️</h1>
+    <h2>Lesson 2 - Types of CSS</h2>
+    <h3>What I Learned</h3>
+    <p>
+<b>What will we use in CSS?</b><br>
+• Curly braces { }<br>
+• Semi Colons ;<br>
+• Selectors<br>
+• Declarations<br><br>
+
+<b>Structure of CSS</b><br>
+Structure of CSS<br>
+•<i>Selector</i> – the HTML element you want to style;  is a pattern used to "find" or "select" the HTML elements on a webpage to which a set of CSS rules will be applied.<br>
+•<i>Property</i> – the style attribute you want to modify; is a named characteristic or attribute that defines a specific aspect of how an HTML element should be displayed or rendered by the browser. Properties are used within CSS declarations to apply styles to selected elements.<br>
+Structure of CSS<br>
+•<i>Value</i> – the weight of the attribute you want to apply to the element property; is the specific setting or configuration assigned to a CSS property. A property and its value form a CSS declaration, which dictates how an element should be styled<br>
+•<i>Declaration</i> – is a single instruction that defines a specific style for an element<br>
+•<i>Declaration block</i> – fundamental part of a CSS rule. It is a block of code that contains one or more CSS declarations, which define the styling rules for the selected HTML element(s).<br><br>
+
+<b>The Style Sheet and its Parts</b><br>
+• A set of instructions to a Web browser on how to display various elements on a Web page is known as style sheet.<br>
+• Every CSS (whether it is contained in a .css file, or embedded in the head element of an HTML document) is a series of instructions called statements<br>
+The statement does two things:<br>
+• It identifies the elements in an HTML document that it affects.<br>
+• It tells the browser how to draw these elements.<br>
+Elements are considered to be paragraphs, links,  lists items, and so on. In technical terms HTML terms, an element is anything marked up inside HTML tags.<br><br>
+
+<b>How Do Style Sheet Work?</b><br>
+•Style sheets are just text files, or text embedded in the head of an HTML document, that help separate content from appearance. <br> The content of the page goes into an HTML file. And the appearance goes into a style sheet. But how does all this end up as a web page in the reader’s browser?<br>
+•A style sheet suggests the browser to display a page in a particular way, how the pages should be displayed in the browser.<br>
+There are two things that you should remember when using the CSS code:<br>
+1. The type attribute should always be &lt;style type=“text/css”&gt;.<br>
+2. CSS code should be enclosed in HTML comments &lt;!--…--&gt; so that in a web browser that does not understand CSS, the browser will not see the CSS code.  But today, however, all current browsers support CSS.<br><br>
+
+<b>Three Kinds of CSS</b><br>
+<b>External Style Sheets</b><br>
+• the most global of the three kinds of CSS because you can apply the same one to an unlimited number of pages<br>
+• allows you to develop a consistent style across pages<br>
+• easily allow you to change the layout of your entire web site by simply changing the external style sheet and every page is instantly updated<br>
+• has a .css file extension<br><br>
+
+<b>Embedded Style Sheets (Internal Style Sheets)</b><br>
+• used for creating a document-wide style rule<br>
+• placed within an HTML document, between the &lt;head&gt; and &lt;/head&gt;<br>
+• used when you have a page that you want to present in a different style from other pages<br>
+• embedded style sheets override external style sheets<br><br>
+
+<b>Inline Style Sheets</b><br>
+• used for isolated changes to a headline, paragraph, picture or other element<br>
+• stored directly in the style attributes of the HTML tags<br>
+• inline style sheets override external and embedded style sheets<br><br>
+
+<b>Syntax of the three kinds of CSS</b><br>
+(Examples)<br>
+<b><i>External Style Sheet</i></b><br>
+&lt;link rel=“stylesheet” href=“style.css” type=“text/css”&gt;<br>
+Filename of the external file<br>
+<b><i>Embedded Style Sheet</i></b><br>
+&lt;style type=“text/css”&gt; &lt;/style&gt;<br>
+<b><i>Inline Style Sheet</i></b><br>
+&lt;p style=“background-color:violet;”&gt;<br><br>
+
+<b>Embedded Style Sheet</b><br>
+Embedded styles or Internal style sheets are defined by the container tag &lt;style&gt;&lt;/style&gt; and placed within the head part of the HTML file.  It provides style to the whole HTML file.<br> <br>
+
+<b>Linked Style Sheets</b><br>
+• External style sheets or linked styles are made outside the HTML file.<br>
+• An external style sheet is linked via &lt;link&gt;.  The &lt;link&gt; element allows you to establish document relationships.<br>
+• The &lt;link&gt; element tells the browser to find the specific style sheet.<br>
+• The &lt;link&gt; element can ONLY be used within the &lt;head&gt;&lt;/head&gt; section of the document.<br>
+• The style sheet file does not contain ANY html code;  it contains only style rules.<br>
+• A CSS file (filename.css) is a style sheet that does not contain anything but the styles.<br>
+• In order for it to take effect, it needs to be linked.<br>
+• A linked file is simply just like embedded styles but without all the HTML tags.<br>
+• Can be written in any text editor and saved with a filename extension of .css.<br>
+• Using the external/linked style sheets, we can modify web pages by just changing one CSS file.<br><br>
+
+<b>Creating an External CSS file</b><br>
+The following steps will show how to create and test a basic style sheet.<br>
+1. Open a blank document in Notepad.<br>
+2. Type the style you want to define.<br>
+3. On the Menu bar, click File and click Save.<br>
+4. Type your filename with the extension .css and change the file type to All Files.<br><br>
+
+<b>Linking CSS file to HTML file</b><br>
+1. After creating your CSS file, open your HTML file.<br>
+2. Type the following inside the HTML file:<br>
+&lt;link rel=“stylesheet” href=“sample.css” type=“text/css”&gt;.<br>
+3.  Save your HTML file.<br> <br>
+
+<b>CSS Comments</b><br>
+Comments are used to explain the code, and will help you edit the source code on a later date.  <br>
+Comments are ignored by the browsers, therefore you can place notifications, reminders and help you increase code readability.  <br>
+A CSS comment starts with /* and ends with */.   <br>
+Comments can also span multiple lines.<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+    </p>
+    <h3>My Browser Output</h3>
+    <ul>
+        <li><img src="images/ss2.jpg" width="300" class="heyo"></li>
+        <li><img src="images/ss2.2.jpg" width="300" class="heyo" ></li>
+    </ul>
+    <h3>Reflection</h3>
+    <p>Here, I learned about the 3 types of CSS — External, Embedded/Internal, and Inline, and how each one affects a webpages layout when used. It also showed be the basic syntax for CSS, which includes selectors, properties, values, and declarations. Overall, I realized the importance in learning these fundamental concepts in developing my understanding of CSS.</p>
+</body>
+</html>

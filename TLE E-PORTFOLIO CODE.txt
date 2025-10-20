@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Carl Angelo Magno | E-Portfolio</title>
+    <link rel="stylesheet" href="CSS.css">
+</head>
+<body>
+
+    <!-- HEADER -->
+    <h1>MY E-PORTFOLIO 💻📂</h1>
+    <br>
+
+    <!-- MAIN PAGE CONTENTS -->
+    <!-- MAIN PAGE CONTENTS -->
+<h2>My Personal Space 🧘‍♂️🏡</h2>
+
+<!-- PERSONAL DETAILS -->
+<h3>Personal Details🪪📋</h3>
+<div class="uhm">
+  <p class="d1">
+    <b class="highlight-name">MAGNO, CARL ANGELO V.</b><br>
+    <b>AGE:</b> 14<br>
+    <b>BIRTHDAY:</b> November 12, 2010<br>
+    <b>FAVORITES:</b>
+  </p>
+
+  <ul class="favorites-list">
+    <li>🎮 Rimworld Video Game</li>
+    <li>🧋 Matcha Milktea</li>
+    <li>📜 Concepts about history or coding</li>
+    <li>🐱 Cats</li>
+    <li>🧠 Fantasy creation through video games</li>
+    <li>🏀 Basketball</li>
+    <li>🍀 The NBA Team Boston Celtics</li>
+    <li>📚 Self-Improvement and Non-Fiction Books</li>
+    <li>🔴 Color Red</li>
+    <li>🍗 Chicken Wings</li>
+    <li>⏳ Productive Habits</li>
+  </ul>
+
+  <ul class="center" >
+    <li><img src="picture1.jpg" alt="Gelo's Picture #1" width="220"></li>
+    <li><img src="picture2.jpg" alt="Gelo's Picture #2" width="220"></li>
+  </ul>
+</div>
+
+<!-- FRIENDS SECTION -->
+<h3>Circle of Friends🤝🎉</h3>
+<p>My old section – 8-Courage 2024-'25 is what I consider my most valuable and memorable circle of friends. Where deep relationships, occasional laughter, and fun moments flourished. Where you realized the true value of friendship and how each and every one of you supports each other as a group, improving collectively, making sure no one felt left out. Where what seemed like another dull section year, turned out to be one of the greatest. This section will forever live in my heart. So I am forever thankful for the people in this picture for making me have one of the greatest moments in my life. I will forever miss them. And even though now, we went our own separate ways due to being in different sections, the spark that once gave birth to those wonderful moments will forever live, not just in our heads, but in our hearts.</p>
+<ul>
+  <li><img src="courage.jpg" alt="Friends Photo" width="500px" class="couragepic"></li>
+</ul>
+<p><a href="https://drive.google.com/file/d/1_GPYPn4KudoveDeiDcp3rIgUXfeuzEao/view?usp=sharing">▶ A quick peek of one of those wonderful moments. [Click the watch the video]</a></p>
+
+<!-- FAMILY SECTION -->
+<h3>My Family👨‍👩‍👧❤️</h3>
+<p>This is a picture of me and my family. Where we attended a church in Tagaytay early in the morning. With this simple picture, it shows the deep love and bond that continues to form by having a time and dedication to support and accompany each other. For me, this is one of our most memorable pictures because of how we are devoted as a family to seek new lessons and opportunities from God, which for me, is what sets a family to a good foundation.</p>
+<ul>
+  <li><img src="fam.jpg" alt="Family Photo" width="220" class="pamilya"></li>
+</ul>
+
+    <br>
+
+    <!-- TLE-ICT CONTENTS -->
+    <h2>TLE-ICT Contents</h2>
+    <h3>Lesson Outputs</h3>
+    <ul>
+        <li><a href="lesson1_output.html">Lesson 1</a> – Introduction to CSS</li>
+        <li><a href="lesson2_output.html">Lesson 2 Output</a> – Types of CSS</li>
+        <li><a href="lesson3_output.html">Lesson 3 Output</a> – Kinds of Elements in CSS</li>
+        <li><a href="lesson4_output.html">Lesson 4 Output</a> – CSS Rules</li>
+        <li><a href="lesson5_output.html">Lesson 5 Output</a> – CSS Selectors</li>
+        <li><a href="lesson6_output.html">Lesson 6 Output</a> – Dimensions</li>
+    </ul>
+
+    <h3>Second Quarter Activities</h3>
+
+<!-- Buwan ng Wika -->
+<h3>Buwan ng Wika📖📜 (Credits to Paham for the pictures and videos)</h3>
+<ul>
+  <li><img src="fil1.jpg" alt="Buwan ng Wika Pic 1"></li>
+  <li><img src="fil2.jpg" alt="Buwan ng Wika Pic 2"></li>
+</ul>
+<p><a href="https://drive.google.com/file/d/19bRQ16Y6Dcv-bu6YyNclzHsrrnvgZA-R/view?usp=sharing">▶ Watch Buwan ng Wika Video</a></p>
+<p>
+  <b>Reflection:</b><br>
+  • <i><b>Most important thing I learned:</b></i>  On how to value my own nation's identity, cultures, and traditions. <br> 
+  • <i><b>Real-life application:</b></i>  I could use traditional Filipino values to be a good citizen not only to myself but also to the people around me. <br> 
+  • <i><b>Participation:</b></i>   I could cooperate with my fellow Filipinos to help each other respect and follow the nation's rules and needs — socially, economically, and environmentally<br> 
+  • <i><b>If I teach this:</b></i>  I would inspire the generations before me to uphold the right values that would determine the nation's wellness in the future.<br>
+  • <i><b>Importance of the event:</b></i>  It inspires student like us to value the nation's traditions and cultures by laying out activities that not only showcases individual talents, but also teaches us about its historical background and origin, helping us deepen our understanding to these type of activities.
+</p>
+
+<!-- Intrams -->
+<h3>Intramurals 🏀🎸 (Photos and videos were taken by me)</h3>
+<ul>
+  <li><img src="intrams1.jpg" alt="Intrams Pic 1"></li>
+  <li><img src="intrams2.jpg" alt="Intrams Pic 2"></li>
+</ul>
+<p><a href="https://drive.google.com/file/d/10wr8tClPH2E3T8I6p4ZaDxPFmZ29HjDS/view?usp=sharing">▶ Watch Intrams Video</a></p>
+<p>
+  <b>Reflection:</b><br>
+  • <i><b>Most important thing I learned:</b></i> The importance of cooperation, discipline and teamwork in winning. <br>
+  • <i><b>Real-life application:</b></i> Helps in mastering skills in terms of being a good leader, and a member, and also teaches us to respond to losses as an opportunity for improvement. <br>
+  • <i><b>Participation:</b></i> Allowed me to learn from people with higher authority or experience, helping me apply these lessons in team efforts or plans. <br>
+  • <i><b>If I teach this:</b></i> I would be able to inspire the youth through my experience in sports and also allow me to gain different perspectives from what they actually dream about in terms of sports.<br>
+  • <i><b>Importance of the event:</b> Helped me realize, respect, and value each of my teammate's skills, inspiring me to use their performance to also improve, not only physically, but mentally.</i>
+</p>
+
+<!-- Science -->
+<h3>Science Month 🔬🧪 (The 1st picture and video was taken by me, credits to 9-Fairness for the 2nd picture) </h3>
+<ul>
+  <li><img src="science1.jpg" alt="Science Fair Pic 1"></li>
+  <li><img src="science2.jpg" alt="Science Fair Pic 2"></li>
+</ul>
+<p><a href="https://drive.google.com/file/d/1KuA6Q1nq15UERilm7RVespKJa0s7dfpF/view?usp=sharing">▶ Watch Science Fair Video</a></p>
+<p>
+  <b>Reflection:</b><br>
+  • <i><b>Most important thing I learned:</b></i> The importance of using your creativity and imagination to give way for new inventions. <br>
+  • <i><b>Real-life application:</b></i> Allowed me to lay out innovative solutions to solve many issues happening in our society.<br>
+  • <i><b>Participation:</b></i> Helped me become a good member by cooperating well with my leader while also learning from her.<br>
+  • <i><b>If I teach this:</b></i> I would be able to use my experience to also lead my members as a team leader in our research group, and also inspire the youth. <br>
+  • <i><b>Importance of the event:</b> Gave value and recognition to innovative solutions, ideas, and imaginations from young inventors. </i>
+</p>
+
+<!-- Araling Panlipunan -->
+<h3>Araling Panlipunan Month🗺️🏛️ (Credits to AP Club and Chloe Chavez for the pictures and video)</h3>
+<ul>
+  <li><img src="ap1.jpg" alt="AP Event Pic 1"></li>
+  <li><img src="ap2.jpg" alt="AP Event Pic 2"></li>
+</ul>
+<p><a href="https://drive.google.com/file/d/12BvdNiAd-iB800vaGmSV0uavkhDAHkUW/view?usp=sharing">▶ Watch AP Event Video</a></p>
+<p>
+  <b>Reflection:</b><br>
+  • <i><b>Most important thing I learned:</b></i> Learning about the history, culture, government, and society of not only my nation, but also other countries.<br>
+  • <i><b>Real-life application:</b></i> Allows me to be aware of what to expect with our government and society, and in the future, be the one to solve the issues happening in our country politically.<br>
+  • <i><b>Participation:</b></i> Join organizations and communities that deepens our understanding about historical contexts and information.<br>
+  • <i><b>If I teach this:</b></i> I would be able to show the youth about the true reality of the country we are living and also teach them about the history of our own nation so we can give value to those who shaped it.<br>
+  • <i><b>Importance of the event:</b> Deepened my understanding and knowledge about history and political reality.</i>
+</p>
+
+<!-- Teacher's Day -->
+<h3>Teacher’s Day 👩‍🏫🌸 (Credits to Riley Dablo for the pictures and videos)</h3>
+<ul>
+  <li><img src="teachersday1.jpg" alt="Teacher's Day Pic 1"></li>
+  <li><img src="teachersday2.jpg" alt="Teacher's Day Pic 2"></li>
+</ul>
+<p><a href="https://drive.google.com/file/d/1Itcr1e8r0YkiCNffle2bGpkuslkctjKm/view?usp=sharing">▶ Watch Teacher's Day Video</a></p>
+<p>
+  <b>Reflection:</b><br>
+  • <i><b>Most important thing I learned:</b></i> To value our teachers for the effort they always bring to the class. <br>
+  • <i><b>Real-life application:</b></i> Treat our teachers as our 2nd parents due to how they tirelessly and effortfully teach us with love and care everyday. <br>
+  • <i><b>Participation:</b></i> Helped in organizing the event as a sound system, showcasing my effort to really make the event meaningful for all. <br>
+  • <i><b>If I teach this:</b></i> I would be able to inspire the youth to always respect people with authority and learn to recognize their efforts despite hardships experienced in scchool.<br>
+  • <i><b>Importance of the event:</b></i> Helped teachers recognize their importance in the future of their students.
+</p>
+
+    <br>
+
+    <!-- ARALING PANLIPUNAN CONTENTS -->
+    <h2>Araling Panlipunan Contents</h2>
+    <ul>
+        <li><a href="#L1">Lesson 1 - Demand</a></li>
+        <li><a href="#L2">Lesson 2 - Supply</a></li>
+        <li><a href="#L3">Lesson 3 - Price Elasticity</a></li>
+        <li><a href="#L4">Lesson 4 - Market Equilibrium</a></li>
+        <li><a href="#L5">Lesson 5 - Iba’t-ibang Estraktura ng Pamilihan</a></li>
+        <li><a href="#L6">Lesson 6 - Bahaging Ginagampanan ng Pamahalaan</a></li>
+    </ul>
+
+    <!-- EACH LESSON WITH 2 PICTURES -->
+    <h3 id="L1">Lesson 1 - Demand</h3>
+    <p>Here, I learned: <br> <br>
+
+        <b><i>Demand</i></b> <br>
+        •  dami ng produkto o serbisyo na kaya mong bilhin sa itinakdang presyo o panahon <br>
+        •  isang pangangailangan <br>
+        •  kakayahan at kagustuhan ng tao na makamit o makuha ang isang produkto para matugunan ang kanilang pangangailangan. <br>
+        • <b> <i>Presyo </i></b> ay ang determinant sa dami ng Demand <br> <br>
+        • Ang <b> <i>Batas ng Demand </i></b> ay kung saan, kapag tumataas ang presyo↑, bumababa and demand↓. Kung bumababa ang presyo↓, tumataas ang demand↑. <br> 
+        • Ang <b> <i> Ceteris Paribus </i></b> ay kung saan presyo lamang ang nakakaapekto na salik sa pagbabago ng quantity demanded, habang ang ibang salik ay hindi nagbabago o nakakaapekto rito. <br> <br>
+         <b> <i> Dalawang Konsepto</i></b> na magkasalungat o inverse ang ugnayan ngunit pumapagitan sa presyo at quantity demanded: <br>
+                  • <b> <i> Substitution Effect</i></b> - Tataas ang substitute demand kung tumataas ang presyo. <br>
+                  • <b> <i> Income Effect </i></b> - Mas malaki ang halaga ng kinikita kapag mas mababa ang presyo. <br> <br>
+
+                  <b> <i> Demand = Kagustuhan + Kakayahan</i></b> <br> <br>
+                
+                •<b><i> Demand Schedule </i></b> - Ay isang <b> <i> table</i></b> na tumutukoy sa bilang ng mga kalakal o serbisyo. <br> <br>
+        •<b> <i> Demand Function </i></b> - Ay isang mathematical function na mayroong formula na <b> <i> Qd=a-bp</i></b> <br>
+        <b> <i> Qd</i></b> - Dami ng demand <br>
+        <b> <i>a </i></b> - Qd kapag presyo =0/intercept <br>
+        <b> <i> b</i></b> - Slope <br>
+        <b> <i> P</i></b> - Presyo <br> <br>
+
+        •<b> <i> Demand Curve </i></b> <br> 
+        -- Graph ng batas ng demand <br>
+         -- Negatibong relasyon ng produkto at dami nito.
+
+         1. Kita ng mga Mamimili <br>
+        2. Populasyon o Dami ng Mamimili <br>
+        3. Panlasa <br> 
+        4. Presyo ng Magkaugnay na Produkto sa Pagkonsumo (Complementary at Substitute Products) <br>
+        5. Ekspektasyon/Inaasahan <br>
+        6. Okasyon <br>
+        7. Panahon o Klima <br> <br>
+
+        Karagdagang Impormasyon: <br>
+        • Ang paglipat sa <b> <i>kanan  </i> </b>ng demand curve ay nangangahulugang pagtaas ng demand. <br>
+        • Ang paglipat naman sa <b> <i>kaliwa </i></b> ay nangangahulugang bumaba ang demand. <br>
+        •<b> <i> Non-Price Determinant </i></b> - Salik na nakakaapekto sa demand kahit hindi nagbabago ang presyo nito.
+                
+                
+                
+                
+                </p>
+    <ul>
+        <li><img src="demand1.jpg" width="200"></li>
+        <li><img src="demand2.jpg" width="200"></li>
+    </ul>
+
+    <h3 id="L2">Lesson 2 - Supply</h3>
+    <p><b> <i> Suplay </i></b> <br>
+        •Tumutukoy sa dami ng produkto na maaaring bilhin. <br>
+        •<b> <i> Presyo </i></b> ang pinakamahalagang determinant ng supply. <br> <br>
+        •<b> <i>3 Elemento sa Suplay: </i></b> <br>
+        1. Paninda <br>
+        2. Pabrika <br>
+                 -        Gumagawa ng mga produkto para mabenta sa paninda. <br>
+                 -        Ang mga negosyante ay ang namamahala at nangangasiwa. <br>
+        3. Negosyante <br> <br>
+
+        •Ang <b> <i> presyo </i></b> ang pinakamahalagang nagtatakda sa supply. <br> <br>
+
+        <b> <i> Batas ng Supply </i></b> - Kapag tumataas ang presyo↑, tumataas ang dami ng gusto at kayang ibenta↑, at kapag bumababa ang presyo↓, bababa naman ang dami ng gusto at kayang ibenta↓ <b> <i> (Ceteris Paribus). </i></b> <br> <br>
+
+        <b> <i> Supply = Pagnanais + Kakayahan</i></b> <br> <br>
+
+        <b> <i> Mathematical Formula </i></b> <br>
+        Qs=  -C+Dp <br> <br>
+    
+    
+    1. Teknolohiya - Bumibilis at nagpaparami sa supply. <br> <br>
+
+        <b> <i> SALIK SA PAGBABAGO SA HALAGA NG MGA SALIK NG PRODUKSYON</i></b> <br>
+        1. Pagbabago sa bilang ng mga nagtitinda. <br>
+        2. Pagbabago sa presyo ng kaugnay na produkto. <br>
+        3. Ekspektasyon ng presyo. <br>
+        4. Okasyon/Tradisyon. <br>
+        5. Panahon/Klima. <br>
+        6. Kalamidad. <br>
+        7. Dali ng pagkasira o pagkabulok ng isang produkto. <br>
+        8. Subsidiya o tulong mula sa pamahalaan.
+    <br>
+    
+    
+    
+    
+    
+    
+    </p>
+    <ul>
+        <li><img src="supply1.jpg" width="200"></li>
+        <li><img src="supply2.jpg" width="200"></li>
+    </ul>
+
+    <h3 id="L3">Lesson 3 - Price Elasticity</h3>
+    <p><b><i> Elastisidad </i></b> <br>
+        •Paraan para masukat ang pagtugon ng mga mamimili at nagtitinda sa pagbabago sa presyo. <br> <br>
+
+        <b> <i> Mga Uri ng Elastisidad</i></b> <br>
+        1. <b>Elastik </b> <br>
+        •  Mas malaki ang pagbabago sa quantity kaysa sa presyo. <br>
+        •  <b> Coefficient:</b> /E/ >1 <br>
+        •  <b>Halimbawa: </b> Produktong maraming kapalit o kahalili 'gaya ng softdrinks. <br>
+        •   %ΔQ > %ΔP<br> <br>
+        2. <b> Di-Elastik</b> <br>
+        •   Mas malaki ang pagbabago ng presyo kaysa sa quantity. <br>
+        •   <b> Coefficient: </b> /E/ < 1 <br>
+        •   <b> Halimbawa: </b> Produktong walang kapalit 'gaya ng medicine. <br>
+        •   %ΔQ < %ΔP<br> <br>
+        3. <b>Unitary  </b><br>
+        •   Parehas ang pagbabago sa presyo at quantity. <br>
+        •   <b> Coefficient </b> /E/ = 1 <br>
+        •   <b> Halimbawa: </b> Walang tiyak na halimbawa. <br>
+        •   %ΔQ = %ΔP<br> <br>
+
+        4. <b> Ganap na Elastik/Perfectly Elastic</b> <br>
+        •  Pagbabago sa presyo ay nagdudulot ng <i> infinite </i> na pagbabago sa quantity. <br> <br>
+        5. <b>Ganap na Di-Elastik/Perfectly Inelastic  </b> <br>
+        •  Hindi nagbabago ang dami ng demand o supply kahit magbago ang presyo. <br> <br>
+
+        <i> <b> PRICE ELASTICITY FORMULA: </b></i> <br>
+        Ep = %ΔQ/%ΔQ</p>
+    <ul>
+        <li><img src="elastic1.jpg" width="200"></li>
+        <li><img src="elastic2.jpg" width="200"></li>
+    </ul>
+
+    <h3 id="L4">Lesson 4 - Market Equilibrium</h3>
+    <p><b> <i> Equilibrium </i></b> <br>
+        •  Walang sinuman ang nais baguhin ang sitwasyon sa pamilihan. <br>
+        •  Pagkakasundo sa isang takdang presyo at dami ng produkto. <br> <br>
+
+        P↑ - D↓ - S↑ - <b> <i> SURPLUS </i></b> <br>
+        P↓ - D↑ - S↓ - <b> <i> SHORTAGE </i> </b>
+    <br>
+
+
+
+•  QD = QS -> <b> <i> EQUILIBRIUM </i></b> <br> <br>
+        •  QD  ≠ QS -> <b> <i> DISEQUILIBRIUM </i></b> <br> <br> 
+        •  QD  < QS -> <b> <i> SURPLUS </i></b> <br> <br>
+        •  QD  > QS -> <b> <i> SHORTAGE </i></b> 
+        
+    <br>
+
+</p>
+    <ul>
+        <li><img src="equi1.jpg" width="200"></li>
+        <li><img src="equi2.png" width="200"></li>
+    </ul>
+
+    <h3 id="L5">Lesson 5 - Iba’t-ibang Estraktura ng Pamilihan</h3>
+    <p><b> <i> 3 ELEMENTO: </i></b> <br>
+        1. Mamimili <br>
+        2. Prodyuser <br>
+        3. Konsyumer <br> <br>
+
+        <b><i> PAMILIHAN </i></b> <br>
+        •  Tumutukoy kung saan nakakamit ng mga mamimili ang sagot sa kanilang mga katanungan at pangangailangan. <br> <br>
+
+        <b> <i> PAGKAKAIBA SA ANYO NG PAMILIHAN </i></b> <br>
+        •  Bilang at laki ng prodyuser o konsumer <br>
+        •  Uri ng produkto o serbisyo <br>
+        •  Kontrol sa presyo <br>
+        •  Kontrol sa pagpasok sa pamilihan <br>
+        •  Paggamit ng di-presyong kompetisyon. <br> <br>
+
+        <b> <i> URI NG PAMILIHAN </i></b> <br>
+        •  Lokal <br>
+        •  Panrelihiyon <br>
+        •  Pambansa <br>
+        •  Pandaigdaigan <br> <br>
+
+        <b> <i> ESTRUKTURA </i></b> <br>
+        • Ganap na kompetisyon <br>
+        • Di-Ganap na kompetisyon <br>
+           a. Monopolyo <br>
+           b. Monopolistikong Kompetisyon <br>
+           c. Oligapolyo <br> <br>
+
+           <i> <b> GANAP NA KOMPETISYON </b></i> <br>
+           1. Maraming konsyumer at prodyuser sa industriya. <br>
+           2. Produkto ng kalakalan sa industriya ay magkakatulad. <br>
+           3. Kalakalan sa industriya ay tinatawag na <i> price takers</i>. <br> 
+           4. Malayong nakapapasok at nakalalabas ang mga kalakalan sa produksyon. <br> <br> 
+           
+           •  <b> <i> MARKET</i></b> ang nagtatakda ng presyo. <br> <br>
+
+           <b> <i> DI-GANAP NA KOMPETISYON </i></b> <br>
+           <b> URI: </b> <br>
+           A. Monopolyo <br>
+           •  Gumagawa ng paraan upang mawala ang kakompetensya. <br>
+           1. Iisa ang prodyuser. <br>
+           2. Produkto ay walang malapit na kapalit. <br>
+           3. Price maker <br>
+           4. Mahirap pumasok <br>
+           5. Pag-anunsyo ay maaring gamitin o hindi. <br> <br>
+
+           B. Oligopolyo <br>
+           1. Kakaunti ang prodyuser sa industriya. <br>
+           2. Produkto ay puwedeng magkatulad o magkaiba.  <br>
+           3. Malaki ang kontrol ng kalakalan pagdating sa bagong presyo. <br>
+           4. Mahirap makapasok ang bagong prodyuser. <br>
+           5. Collusion o sabwatan ng kompanya upang mapababa ang presyo. <br> <br>
+
+           C. Monopolistic Competition <br>
+           1. Katamtamang dami ng prodyuser at konsyumer.<br>
+           2. Agresibo ang kompetisyon. <br>
+           3. Malawakang pag-aanunsyo. <br>
+           4. Kaunting kontrol sa presyo dahil iba-iba ang produkto. <br>
+           5. Madali ang pagpasok ng prodyuser. <br> <br>
+
+           D. Monopsony <br>
+           •  Kabaliktaran ng monosopy <br> 
+           1. Iisang konsyumer, maraming prodyuser. <br>
+           2. Iniimpluwensyahan ng konsyumer ang presyo sa pamilihan. <br> <br></p>
+    <ul>
+        <li><img src="market1.jpg" width="200"></li>
+        <li><img src="market2.jpg" width="200"></li>
+    </ul>
+
+    <h3 id="L6">Lesson 6 - Bahaging Ginagampanan ng Pamahalaan</h3>
+    <p><b><i> Price Control </i></b> <br> • Pagtatakda ng pinakamataas at pinakamababa na presyo sa produkto at serbisyo. <br> <br>
+
+        <b><i> LAYUNIN </i></b> <br>
+        1. Proteksyunan ang mga konsyumer mula sa mataas na presyo ng mga bilihin. <br>
+        2. Tiyakin na hindi malulugi ang mga prodyuser. <br>
+        3. Panatilihin ang kaayusan ng ekonomiya. <br> <br>
+
+        <b> <i>National Price Coordination Council (NPCC) </i></b> <br>
+        • Departamentong nagbabantay sa mga presyo. <br> <br>
+
+        <b><i> Price Ceiling </i></b> <br>
+        • Pinakamataas na presyo upang ipagbili ang produkto. <br>
+        • Layunin na proteksyunan ang mga kustomer mula sa mga nagpapabili na nais abusuhin ang presyo ng isang produkto.   <br> <br>
+
+        <b> <i> Price Freeze </i></b> <br>
+        • Tumutukoy sa 'di paggalawa ng presyo. <br>
+        • <b> <i> Nangyayari tuwing:</i></b> <br>
+        1. State of Calamity <br>
+        2. Mabilis na pagtaas ng inflation <br> <br>
+
+        <b><i> MABUTING EPEKTO </i></b> <br>
+        • Abot-kayang presyo <br>
+        • Napoproteksyunan ang karapatan ng mga mahihirap. <br>
+        • Napapanatili ang katatagan ng pamilihan. <br> <br>
+
+        <b> <i> HINDI MABUTING EPEKTO </i></b> <br>
+        • Nagkukulang ang supply ng produkto kapag bumababa ang presyo. <br>
+        • Nawawalan ng gana ang mga prodyuser. <br>
+        • Mataas ang tiyansa na magkaroon ng <b> <i> black market </i></b>. <br> <br>
+
+        <b><i> Price Support </i></b> <br>
+        • Layunin na proteksyunan ang mga prodyuser. <br> <br>
+
+        <b> <i> Floor Price</i></b> <br> 
+        • pinakamababang presyo na itinakda ng batas sa mga
+        produkto at serbisyo na kilala rin bilang <b> <i> price support  </i></b> at <b> <i> minimum price policy </i> </b>. <br>
+        • Mas mataas sa equilibrium. 
+    
+    
+    
+    
+    
+    
+    
+    </p>
+    <ul>
+        <li><img src="price1.jpg" width="200"></li>
+        <li><img src="price2.jpg" width="200"></li>
+    </ul>
+
+</body>
+</html>
